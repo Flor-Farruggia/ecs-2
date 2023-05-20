@@ -14,4 +14,4 @@ $dp -> document = "10333444";
 $dp -> discharge = "30-03-2023";
 
 
-$dp -> allDataUser ();
+$dp -> showDataUser ();

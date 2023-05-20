@@ -21,7 +21,7 @@ class dataUser {
     public $document;
     public $discharge;
 
-    public function allDataUser (){
+    public function showDataUser (){
         echo 'Id: '.$this->id;
         echo '<br> User name: '.$this->userName;
         echo '<br> Key: '.$this->key;
